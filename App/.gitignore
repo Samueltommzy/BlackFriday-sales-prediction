@@ -1,3 +1,5 @@
+test.csv/
+train.csv/
 venv/
 
 *.pyc
